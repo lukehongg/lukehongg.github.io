@@ -2,13 +2,13 @@
 
 [BOF 공격정리](https://lukehongg.github.io/GBC_Security/hw/BOF.md)
 
-[HW1](https://lukehongg.github.io/GBC_Security/hw/hw1.md) HW1
+[HW1](https://lukehongg.github.io/GBC_Security/hw/hw1.md)
 
-[HW2](https://lukehongg.github.io/GBC_Security/hw/hw2.md) HW2
+[HW2](https://lukehongg.github.io/GBC_Security/hw/hw2.md)
 
-[HW3](https://lukehongg.github.io/GBC_Security/hw/hw3.md) HW3
+[HW3](https://lukehongg.github.io/GBC_Security/hw/hw3.md)
 
-[HW4](https://lukehongg.github.io/GBC_Security/hw/hw4.md) HW4
+[HW4](https://lukehongg.github.io/GBC_Security/hw/hw4.md)
 
 # 웹 해킹 정리
 
